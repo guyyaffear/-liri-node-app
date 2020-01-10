@@ -1,0 +1,56 @@
+======Begin Spotify Log Entry======
+Artist: Usher
+Song Name: My Boo
+ Preview Link: https://api.spotify.com/v1/tracks/68vgtRHr7iZHpzGpon6Jlo
+Album Name: Confessions (Expanded Edition)
+======End Spotify Log Entry======
+======Begin Spotify Log Entry======
+Artist: Usher
+Song Name: My Boo
+ Preview Link: https://api.spotify.com/v1/tracks/68vgtRHr7iZHpzGpon6Jlo
+Album Name: Confessions (Expanded Edition)
+======End Spotify Log Entry======
+======Begin Spotify Log Entry======
+Artist: Usher
+Song Name: My Boo
+ Preview Link: https://api.spotify.com/v1/tracks/68vgtRHr7iZHpzGpon6Jlo
+Album Name: Confessions (Expanded Edition)
+======End Spotify Log Entry======
+======Begin Spotify Log Entry======
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+ Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album Name: The Hits--Chapter One
+======End Spotify Log Entry======
+======Begin Concert Log Entry======
+Name of the musician: maroon 5
+Name of the venue: American Airlines Arena
+ Venue location: Miami
+ Date of event: 02-01-2020
+======End Concert Log Entry======
+======Begin Concert Log Entry======
+Name of the musician: maroon 5
+Name of the venue: American Airlines Arena
+ Venue location: Miami
+ Date of event: 02-01-2020
+======End Concert Log Entry======
+======Begin Movie Log Entry======
+Movie title: Mr. Nobody
+Year released: 2009
+IMDB rating: 7.8
+Rotten Tomatoes rating: 67%
+Country where produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+======End Movie Log Entry======
+======Begin Movie Log Entry======
+Movie title: Frozen
+Year released: 2013
+IMDB rating: 7.5
+Rotten Tomatoes rating: 90%
+Country where produced: USA
+Language: English, Norwegian
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+======End Movie Log Entry======
