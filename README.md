@@ -1,3 +1,3 @@
 # -liri-node-app
-![](gif/liri.js - homeWork - Visual Studio Code 2020-01-11 18-53-47.mp4)
+![](https://github.com/guyyaffear/-liri-node-app/blob/master/gif/liri.js%20-%20homeWork%20-%20Visual%20Studio%20Code%202020-01-11%2018-53-47.mp4)
 
