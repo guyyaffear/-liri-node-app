@@ -54,3 +54,9 @@ Language: English, Norwegian
 Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
 Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
 ======End Movie Log Entry======
+======Begin Spotify Log Entry======
+Artist: Alan Walker
+Song Name: On My Way
+ Preview Link: https://api.spotify.com/v1/tracks/4n7jnSxVLd8QioibtTDBDq
+Album Name: On My Way
+======End Spotify Log Entry======
