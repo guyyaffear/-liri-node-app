@@ -17,28 +17,19 @@ Takes a projects directory and looks for any node_module folders contained insid
    - macOS - usr, System, System Volume Information, Applications, Application Support
    - Windows - Windows,  AppData, Application Data, Cookies, Program Files, Program Files(x86), 		Local Settings, Documents and Settings
 
-*** Install Globally to avoid deleting this package with other node_modules ***
+<!-- *** Install Globally to avoid deleting this package with other node_modules ***
 
-#### Example
+Example
 Directory structure:
  *  Projects/
     * Project-1/
       * index.js
       * package.json
       * package-lock.json
-      * node_modules
-    * Project-2/
-      * index.js
-      * package.json
-      * package-lock.json
-      * node_modules
-    * Project-3/
-      * index.js
-      * package.json
-      * package-lock.json
-      * node_modules
+      * node_modules -->
 
-```node
+
+<!-- ```node
 npm install -g module-cleaner
 cleanmodules -r ~/Desktop/Projects -- Project-3 
 ```
@@ -96,4 +87,4 @@ npm install
 node moduleCleaner.js -r SOME-PROJECT-DIRECTORY
 ```
 
-All feedback is welcome and appreciated. Thanks! -->
+All feedback is welcome and appreciated. Thanks! --> -->
